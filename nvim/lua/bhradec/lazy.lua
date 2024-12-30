@@ -26,8 +26,8 @@ require("lazy").setup({
 	spec = {
 		{ import = "bhradec.plugins" },
 	},
-	checker = { 
-		enabled = true 
+	checker = {
+		enabled = true
 	},
 })
 
