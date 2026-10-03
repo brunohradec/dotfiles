@@ -5,9 +5,9 @@ font-thicken = 1
 window-width = 120
 window-height = 40
 
-split-divider-color = "#313244"
+split-divider-color = "#333333"
 
 window-padding-x = 10
 window-padding-y = 5
 
-theme = "Catppuccin Mocha"
+theme = "Nvim Dark"
